@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /
 title: "Kabil personal website"
 author_profile: true
