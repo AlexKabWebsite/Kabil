@@ -1,6 +1,7 @@
 ---
+layout: splash
 permalink: /
-title: "About me"
+title: "Kabil personal website"
 author_profile: true
 redirect_from: 
   - /about/
